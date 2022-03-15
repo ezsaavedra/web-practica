@@ -1,0 +1,31 @@
+html {
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+.tar{
+    position: relative;
+    top:20px;
+    left:80px;
+    padding: 20px;
+    text-align: center;
+    margin: 50px;
+    width: 1100px;
+    height: 500px;
+    border-radius: 25px;
+    background-color: rgb(228,228,228);
+}
+.text{
+    margin:10px 100px 10px;
+}
+.lot{
+    width: 600px;
+    position: absolute;
+    left: 50px;
+
+}
+#lot1{
+    position:absolute;
+    left: 380px;
+}
